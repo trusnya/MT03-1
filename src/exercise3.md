@@ -1,7 +1,7 @@
 Usename - standard_user, locked_out_user, problem_user, performance_glitch_user, неверный, пустое поле  
 Password - верный, неверный, пустое поле  
 
-Username	                 Password
+Username	                 Password  
 1	standard_user	         верный   
 2	standard_user	         пустой  
 3	standard_user	         неверный  
