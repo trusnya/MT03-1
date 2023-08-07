@@ -1,25 +1,25 @@
-Usename - standard_user, locked_out_user, problem_user, performance_glitch_user, неверный, пустое поле
+Usename - standard_user, locked_out_user, problem_user, performance_glitch_user, неверный, пустое поле  
 Password - верный, неверный, пустое поле  
 
-Username	             Password  
-1	standard_user	         верный  
-2	standard_user	         пустое поле  
-3	standard_user	         неверный  
-4	locked_out_user	         пустое поле  
-5	locked_out_user	         неверный  
-6	locked_out_user	         верный  
-7	problem_user	         неверный  
-8	problem_user	         верный  
-9	problem_user	         пустое поле  
-10	performance_glitch_user	 верный  
-11	performance_glitch_user	 пустое поле  
-12	performance_glitch_user	 неверный  
-13	пустое поле	             пустое поле  
-14	пустое поле	             неверный  
-15	пустое поле	             верный  
-16	неверный	             неверный  
-17	неверный	             верный  
-18	неверный	             пустое поле  
+|Username	             |Password  
+|standard_user	         |верный  
+|standard_user	         |пустое поле  
+|standard_user	         |неверный  
+|locked_out_user	     |пустое поле  
+|locked_out_user	     |неверный  
+|locked_out_user	     |верный  
+|problem_user	         |неверный  
+|problem_user	         |верный  
+|problem_user	         |пустое поле  
+|performance_glitch_user |верный  
+|performance_glitch_user |пустое поле  
+|performance_glitch_user |неверный  
+|пустое поле	         |пустое поле  
+|пустое поле	         |неверный  
+|пустое поле	         |верный  
+|неверный	             |неверный  
+|неверный	             |верный  
+|неверный	             |пустое поле  
 
 
 ## Тест-кейс №1 Username standart/Password верный
