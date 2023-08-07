@@ -1,26 +1,26 @@
 ## Тест-кейс №1 Username standart/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/  
 2. Шаги:
--В поле "Username" ввести standard_user
--В поле "Password" ввести secret_sauce 
--Нажать на кнопку "LOGIN"
+-В поле "Username" ввести standard_user  
+-В поле "Password" ввести secret_sauce   
+-Нажать на кнопку "LOGIN"  
 3. Ожидаемый результат:
 -После введения данных и нажатии кнопки "LOGIN" открывается окно главной страницы сайта https://www.saucedemo.com/
 
 ## Тест-кейс №2 Username standart/Password пустое поле
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/  
 2. Шаги:
--В поле "Username" ввести standard_user
--Поле "Password" оставить пустым 
--Нажать на кнопку "LOGIN"
+-В поле "Username" ввести standard_user    
+-Поле "Password" оставить пустым   
+-Нажать на кнопку "LOGIN"    
 3. Ожидаемый результат:
 -После введения данных и нажатии кнопки "LOGIN" вход не будет выполнен, появиться сообщение, что необходимо ввести пароль
 
 ## Тест-кейс №3 Username standart/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести standard_user
 -В поле "Password" ввести sause 
@@ -30,7 +30,7 @@
 
 ## Тест-кейс №4 Username locked_out_user/Password пустое поле
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести locked_out_user
 -Поле "Password" оставить пустым 
@@ -40,7 +40,7 @@
 
 ## Тест-кейс №5 Username locked_out_user/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести locked_out_user
 -В поле "Password" ввести sause 
@@ -50,7 +50,7 @@
 
 ## Тест-кейс №6 Username locked_out_user/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести locked_out_user
 -В поле "Password" ввести secret_sauce
@@ -60,7 +60,7 @@
 
 ## Тест-кейс №7 Username problem_user/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести problem_user
 -В поле "Password" ввести sause 
@@ -70,7 +70,7 @@
 
 ## Тест-кейс №8 Username problem_user/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести problem_user
 -В поле "Password" ввести secret_sauce 
@@ -80,7 +80,7 @@
 
 ## Тест-кейс №9 Username problem_user/Password пустое поле
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести problem_user
 -Поле "Password" оставить пустым 
@@ -90,7 +90,7 @@
 
 ## Тест-кейс №10 Username performance_glitch_user/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести performance_glitch_user
 -В поле "Password" ввести secret_sauce 
@@ -100,7 +100,7 @@
 
 ## Тест-кейс №11 Username performance_glitch_user/Password пустое поле
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести performance_glitch_user
 -Поле "Password" оставить пустым 
@@ -110,7 +110,7 @@
 
 ## Тест-кейс №12 Username performance_glitch_user/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести performance_glitch_user
 -В поле "Password" ввести sause 
@@ -120,7 +120,7 @@
 
 ## Тест-кейс №13 Username пустое поле/Password пустое поле
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -Поле "Username" оставить пустым
 -Поле "Password" оставить пустым 
@@ -130,7 +130,7 @@
 
 ## Тест-кейс №14 Username пустое поле/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -Поле "Username" оставить пустым
 -В поле "Password" ввести sause
@@ -140,7 +140,7 @@
 
 ## Тест-кейс №15 Username пустое поле/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -Поле "Username" оставить пустым
 -В поле "Password" ввести secret_sauce
@@ -150,7 +150,7 @@
 
 ## Тест-кейс №16 Username неверный/Password неверный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести sauce
 -В поле "Password" ввести sause 
@@ -160,7 +160,7 @@
 
 ## Тест-кейс №17 Username неверный/Password верный
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести sauce
 -В поле "Password" ввести secret_sauce 
@@ -170,7 +170,7 @@
 
 ## Тест-кейс №18 Username неверный/Password пустое поле 
 1. Предшествующие условия:
-- пользователь находится на странице авторизации https://www.saucedemo.com/
+-пользователь находится на странице авторизации https://www.saucedemo.com/
 2. Шаги:
 -В поле "Username" ввести sauce
 -Поле "Password" оставить пустым 
